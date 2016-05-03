@@ -1,3 +1,4 @@
+## Esta tools detecta potenciales xss mirando configs por default. 
 ## Configs
 RED='\033[0;31m'
 NC='\033[0m'
